@@ -1,0 +1,5 @@
+---
+permalink: /story
+title: Story
+---
+

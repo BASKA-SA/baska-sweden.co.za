@@ -1,7 +1,11 @@
 # main links
 main:
+  - title: "Story"
+    url: /story
   - title: "Events"
     url: /events
+  - title: "Get Involved"
+    url: /get-involved
   - title: "Donate"
     url: /donate
   - title: "Team"
