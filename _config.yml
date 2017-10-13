@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "BASKA Sweden"
+title                    : "BASKA Sweden 2018"
 title_separator          : "-"
-name                     : "BASKA Sweden"
+name                     : "BASKA Sweden 2018"
 #description              : "An amazing website."
 url                      : https://baska-sweden.co.za # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
