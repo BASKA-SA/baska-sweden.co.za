@@ -1,5 +1,0 @@
----
-permalink: /team
-title: Team
----
-
