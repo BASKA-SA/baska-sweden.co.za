@@ -1,6 +1,8 @@
 ---
 category: team
 permalink: /team/eyethu-mgada
-teaser: /assets/img/eyethu-mgada.jpg
+teaser: /assets/thumbs/eyethu-mgada.png
 title: Eyethu Mgada
 ---
+
+<img src="/assets/img/eyethu-mgada.jpg" />

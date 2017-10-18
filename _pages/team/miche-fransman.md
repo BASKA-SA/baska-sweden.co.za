@@ -1,6 +1,8 @@
 ---
 category: team
 permalink: /team/miche-fransman
-teaser: /assets/img/miche-fransman.jpg
+teaser: /assets/thumbs/miche-fransman.png
 title: Miche’ Fransman
 ---
+
+<img src="/assets/img/miche-fransman-2.jpg" />

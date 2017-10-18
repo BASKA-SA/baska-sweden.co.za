@@ -1,6 +1,8 @@
 ---
 category: team
 permalink: /team/edwina-bonzaaier
-teaser: /assets/img/edwina-bonzaaier.jpg
+teaser: /assets/thumbs/edwina-bonzaaier.png
 title: Edwina Bonzaaier
 ---
+
+<img src="/assets/img/edwina-bonzaaier.jpg" />

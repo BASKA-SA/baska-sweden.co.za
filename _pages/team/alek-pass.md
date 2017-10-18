@@ -1,7 +1,8 @@
 ---
 category: team
 permalink: /team/alek-pass
-teaser: /assets/img/alek-pass.jpg
+teaser: /assets/thumbs/alek-pass.png
 title: Alek Pass
 ---
 
+<img src="/assets/img/alek-pass-2.jpg" />

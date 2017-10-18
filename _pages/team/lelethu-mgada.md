@@ -1,6 +1,8 @@
 ---
 category: team
 permalink: /team/lelethu-mgada
-teaser: /assets/img/lelethu-mgada.jpg
+teaser: /assets/thumbs/lelethu-mgada.png
 title: Lelethu Mgada
 ---
+
+<img src="/assets/img/lelethu-mgada.jpg" />

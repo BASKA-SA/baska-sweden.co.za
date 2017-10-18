@@ -1,7 +1,7 @@
 ---
 category: team
 permalink: /team/sarah-carter
-teaser: /assets/thumbs/sarah-carter.jpg
+teaser: /assets/thumbs/sarah-carter.png
 title: Sarah Carter
 ---
 

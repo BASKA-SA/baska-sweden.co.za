@@ -1,6 +1,8 @@
 ---
 category: team
 permalink: /team/elrin-mars
-teaser: /assets/img/elrin-mars.jpg
+teaser: /assets/thumbs/elrin-mars.png
 title: Elrin Mars
 ---
+
+<img src="/assets/img/elrin-mars-2.jpg" />
