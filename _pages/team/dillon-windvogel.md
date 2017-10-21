@@ -5,4 +5,4 @@ teaser: /assets/thumbs/dillon-windvogel.png
 title: Dillon Windvogel
 ---
 
-<img src="/assets/img/dillon-windvogel-2.jpg" />
+<img src="/assets/img/dillon-windvogel.jpg" />

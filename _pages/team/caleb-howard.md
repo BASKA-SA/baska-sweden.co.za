@@ -5,7 +5,7 @@ teaser: /assets/thumbs/caleb-howard.png
 title: Caleb Howard
 ---
 
-<img src="/assets/img/caleb-howard-2.jpg" />
+<img src="/assets/img/caleb-howard.jpg" />
 
 Caleb Howard, 28
 <br>Aka Cala, Die Rooi Gefaar

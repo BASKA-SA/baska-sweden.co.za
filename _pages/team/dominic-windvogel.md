@@ -5,4 +5,4 @@ teaser: /assets/thumbs/dominic-windvogel.png
 title: Dominic Windvogel
 ---
 
-<img src="/assets/img/dominic-windvogel-2.jpg" />
+<img src="/assets/img/dominic-windvogel.jpg" />

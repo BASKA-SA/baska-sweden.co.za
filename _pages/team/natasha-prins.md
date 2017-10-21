@@ -5,4 +5,4 @@ teaser: /assets/thumbs/natasha-prins.png
 title: Natasha Prins
 ---
 
-<img src="/assets/img/natasha-prins-2.jpg" />
+<img src="/assets/img/natasha-prins.jpg" />

@@ -5,4 +5,4 @@ teaser: /assets/thumbs/ashleigh-rosant.png
 title: Ashleigh Rosant
 ---
 
-<img src="/assets/img/ashleigh-rosant-2.jpg" />
+<img src="/assets/img/ashleigh-rosant.jpg" />

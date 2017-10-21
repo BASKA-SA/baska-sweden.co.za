@@ -5,4 +5,4 @@ teaser: /assets/thumbs/miche-fransman.png
 title: Miche’ Fransman
 ---
 
-<img src="/assets/img/miche-fransman-2.jpg" />
+<img src="/assets/img/miche-fransman.jpg" />

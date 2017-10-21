@@ -5,4 +5,4 @@ teaser: /assets/thumbs/elrin-mars.png
 title: Elrin Mars
 ---
 
-<img src="/assets/img/elrin-mars-2.jpg" />
+<img src="/assets/img/elrin-mars.jpg" />

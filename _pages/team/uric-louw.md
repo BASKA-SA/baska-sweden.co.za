@@ -5,4 +5,4 @@ teaser: /assets/thumbs/uric-louw.png
 title: Uric Louw
 ---
 
-<img src="/assets/img/uric-louw-2.jpg" />
+<img src="/assets/img/uric-louw.jpg" />
