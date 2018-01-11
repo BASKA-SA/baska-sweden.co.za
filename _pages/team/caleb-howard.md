@@ -15,3 +15,5 @@ He is a 3 Dan black belt and has been training for 12 years. He originally
 decided to do Karate to improve his concentration and schoolwork, or at least
 that’s what he says. Caleb lives in Northpine, Cape Town and is also a pretty
 slick hip hop dancer and keen surfer.
+
+[Questionnare Answers](https://drive.google.com/open?id=1AXvxEvGoKCzxjmfjxMmT94p5vE5_Oy1ELbpWfhf5m90)
