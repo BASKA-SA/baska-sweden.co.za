@@ -5,6 +5,6 @@ teaser: /assets/thumbs/chris-ensil.png
 title: Sensei Chris Ensil
 ---
 
-<img src="/assets/img/chris-ensil.jpg" />
+<img src="/assets/img/chris-ensil.png" />
 
 [Questionnare Answers](https://drive.google.com/open?id=1BEhrdtEg-fYVCs7daDvhi-CIsVqwWTkVNCvQAUjkzts)

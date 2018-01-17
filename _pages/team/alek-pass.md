@@ -5,6 +5,6 @@ teaser: /assets/thumbs/alek-pass.png
 title: Alek Pass
 ---
 
-<img src="/assets/img/alek-pass.jpg" />
+<img src="/assets/img/alek-pass.png" />
 
 [Questionnare Answers](https://drive.google.com/open?id=18Gb7F7LshntoGhxsn-P5HiMoTc7NmgjfweTF0nT0Yoc)
