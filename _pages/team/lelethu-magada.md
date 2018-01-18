@@ -7,4 +7,4 @@ title: Lelethu Magada
 
 <img src="/assets/img/lelethu-magada.png" />
 
-[Questionnare Answers](https://drive.google.com/open?id=1u1HKgrJW9gsLQo2pz_0n_GfoGgPLDsHWI6JWg6gXuqk)
+[Questionnare Answers](https://drive.google.com/open?id=1sbs6F0FBCaEJnqH3cAfozUcWABq0kXBp37Uk8LZJmQw)
