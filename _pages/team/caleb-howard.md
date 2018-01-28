@@ -7,7 +7,7 @@ title: Caleb Howard
 
 <img src="/assets/img/caleb-howard.png" />
 
-Caleb Howard, 28
+Sensei Caleb Howard, 28
 <br>Aka Cala, Die Rooi Gefaar
 
 Caleb was awarded sportsman of the year for 2016 for the Cape Winelands District.
