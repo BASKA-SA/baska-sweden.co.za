@@ -25,7 +25,7 @@ Sign up here to get regular updates on how the team is doing:
        We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-    <form action="https://baska-sweden.us12.list-manage.com/subscribe/post?u=f66546b13ce7dd22d10174120&amp;id=88b765fcfa" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <form action="https://baska-sweden.us12.list-manage.com/subscribe/post?u=f66546b13ce7dd22d10174120&amp;id=88b765fcfa" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" novalidate>
         <div id="mc_embed_signup_scroll">
             <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
             <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
