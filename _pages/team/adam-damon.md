@@ -11,4 +11,6 @@ Adam Damon, 12
 
 Adam Damon is somewhat of an enigma. No-one knows very much about this silent attacker. Born and raised in Cape Town, he likes akni for dinner.
 
+<!--
 [Questionnare Answers](https://drive.google.com/open?id=1j8V8kTUfEyZgT8RhnqHrWCgL-ALpY1O48BnvVuJe7rQ)
+-->

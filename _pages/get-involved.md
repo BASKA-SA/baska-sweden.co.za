@@ -28,7 +28,7 @@ R200
 -->
 
 ## Donations
-Donations of any amount are most welcome. Baska is a registered Non Profit
+Donations of any amount are most welcome. BASKA is a registered Non Profit
 Organisation, and for donations of R500 or more, we will gladly provide a
 properly drafted tax certificate which you can use to claim the tax back. If
 you are an organisation you can get a deduction as well as Enterprise

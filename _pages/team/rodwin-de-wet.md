@@ -7,4 +7,6 @@ title: Rodwin de Wet
 
 <img src="/assets/img/rodwin-de-wet.png" />
 
+<!--
 [Questionnare Answers](https://drive.google.com/open?id=1VBojQLAMQjcxmdDdke21VWM5OYCNCxNb6znyyneYOrk)
+-->

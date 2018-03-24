@@ -7,4 +7,6 @@ title: Tyler Moss
 
 <img src="/assets/img/tyler-moss.png" />
 
+<!--
 [Questionnare Answers](https://drive.google.com/open?id=11uZTl7UFIoKMEh48f_UU1qsXwOuMxeAKqTo--C4Cc6o)
+-->
