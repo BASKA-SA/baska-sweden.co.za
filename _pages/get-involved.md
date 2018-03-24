@@ -10,7 +10,7 @@ here, or via our [Facebook page](https://www.facebook.com/Baska-Sweden-2018-1427
 ### Champions Card pack
 This deck of high quality playing cards has a great action shot of each team
 member as well as all our Senseis. This collectable deck of cards will also
-make a great gift. Only R95. Contact us on [admin@baska-sweden.co.za](mailto:admin@baska-sweden.co.za) to purchase your cards.
+make a great gift. Only R99. Contact us on [admin@baska-sweden.co.za](mailto:admin@baska-sweden.co.za) to purchase your cards.
 
 <!--
 ### Supporter's Pack
