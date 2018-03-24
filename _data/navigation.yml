@@ -2,8 +2,6 @@
 main:
   - title: "The Road to Sweden"
     url: /story
-  - title: "Events"
-    url: /events
   - title: "Get Involved"
     url: /get-involved
   - title: "Team"
