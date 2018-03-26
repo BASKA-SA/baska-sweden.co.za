@@ -6,8 +6,7 @@ title: ""
 ## Help get the winning team to Sweden in 2018
 
 BASKA is going to Sweden in 2018 and you can help! 40 of our karateka have
-qualified for the world championships which will be held in Stockholm in June
-next year. We need to raise funds to pay for this exciting event. Have a look
+qualified for the world championships which will be held in Stockholm in June. We need to raise funds to pay for this exciting event. Have a look
 at the ways you can get involved. If we all pull together we can get our team
 to Sweden!
 
@@ -38,5 +37,16 @@ Sign up here to get regular updates on how the team is doing:
         </div>
     </form>
 </div>
-
 <!--End mc_embed_signup-->
+
+## Past Updates
+<style type="text/css">
+.display_archive {
+    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    line-height: 1.5;
+    font-size: 1em;
+}
+.campaign {line-height: 125%; margin: 5px;}
+</style>
+
+<script language="javascript" src="//baska.us12.list-manage.com/generate-js/?u=f66546b13ce7dd22d10174120&fid=8529&show=10" type="text/javascript"></script>
