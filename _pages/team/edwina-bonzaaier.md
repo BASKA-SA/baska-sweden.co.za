@@ -1,11 +1,11 @@
 ---
 category: team
 permalink: /team/edwina-bonzaaier
-teaser: /assets/thumbs/edwina-bonzaaier.png
+teaser: https://img.baska-sweden.co.za/thumbs/edwina-bonzaaier.png
 title: Edwina Bonzaaier
 ---
 
-<img src="/assets/img/edwina-bonzaaier.png" />
+[<img src="https://img.baska-sweden.co.za/resized/edwina-bonzaaier.png" />](https://img.baska-sweden.co.za/original/edwina-bonzaaier.png)
 
 Edwina Bonzaaier, 17
 

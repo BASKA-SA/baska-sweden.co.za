@@ -1,11 +1,11 @@
 ---
 category: team
 permalink: /team/natasha-prins
-teaser: /assets/thumbs/natasha-prins.png
+teaser: https://img.baska-sweden.co.za/thumbs/natasha-prins.png
 title: Natasha Prins
 ---
 
-<img src="/assets/img/natasha-prins.png" />
+[<img src="https://img.baska-sweden.co.za/resized/natasha-prins.png" />](https://img.baska-sweden.co.za/original/natasha-prins.png)
 
 Natasha Prins, 18
 

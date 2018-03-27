@@ -1,11 +1,11 @@
 ---
 category: team
 permalink: /team/micheala-fourie
-teaser: /assets/thumbs/micheala-fourie.png
+teaser: https://img.baska-sweden.co.za/thumbs/micheala-fourie.png
 title: Micheala Fourie
 ---
 
-<img src="/assets/img/micheala-fourie.png" />
+[<img src="https://img.baska-sweden.co.za/resized/micheala-fourie.png" />](https://img.baska-sweden.co.za/original/micheala-fourie.png)
 
 <!--
 [Questionnare Answers](https://drive.google.com/open?id=1C-y-fjXTocEu_6SksQmgdeIwYh6KJxXAk0wk3CV8Ook)

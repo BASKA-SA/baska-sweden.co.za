@@ -1,11 +1,11 @@
 ---
 category: team
 permalink: /team/annelize-morkel
-teaser: /assets/thumbs/annelize-morkel.png
+teaser: https://img.baska-sweden.co.za/thumbs/annelize-morkel.png
 title: Sensei Annelize Morkel
 ---
 
-<img src="/assets/img/annelize-morkel.png" />
+[<img src="https://img.baska-sweden.co.za/resized/annelize-morkel.png" />](https://img.baska-sweden.co.za/original/annelize-morkel.png)
 
 Sensei Annelize Morkel, 37
 

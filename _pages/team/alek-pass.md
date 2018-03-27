@@ -1,11 +1,11 @@
 ---
 category: team
 permalink: /team/alek-pass
-teaser: /assets/thumbs/alek-pass.png
+teaser: https://img.baska-sweden.co.za/thumbs/alek-pass.png
 title: Alek Pass
 ---
 
-<img src="/assets/img/alek-pass.png" />
+[<img src="https://img.baska-sweden.co.za/resized/alek-pass.png" />](https://img.baska-sweden.co.za/original/alek-pass.png)
 
 Alex Pass, 13
 

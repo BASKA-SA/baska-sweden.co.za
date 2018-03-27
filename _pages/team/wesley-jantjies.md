@@ -1,8 +1,8 @@
 ---
 category: team
 permalink: /team/wesley-jantjies
-teaser: /assets/thumbs/wesley-jantjies.png
+teaser: https://img.baska-sweden.co.za/thumbs/wesley-jantjies.png
 title: Wesley Jantjies
 ---
 
-<img src="/assets/img/wesley-jantjies.png" />
+[<img src="https://img.baska-sweden.co.za/resized/wesley-jantjies.png" />](https://img.baska-sweden.co.za/original/wesley-jantjies.png)

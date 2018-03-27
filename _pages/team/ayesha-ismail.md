@@ -1,11 +1,11 @@
 ---
 category: team
 permalink: /team/ayesha-ismail
-teaser: /assets/thumbs/ayesha-ismail.png
+teaser: https://img.baska-sweden.co.za/thumbs/ayesha-ismail.png
 title: Ayesha Ismail
 ---
 
-<img src="/assets/img/ayesha-ismail.png" />
+[<img src="https://img.baska-sweden.co.za/resized/ayesha-ismail.png" />](https://img.baska-sweden.co.za/original/ayesha-ismail.png)
 
 Ayesha Ismail, 13
 

@@ -1,11 +1,11 @@
 ---
 category: team
 permalink: /team/eyethu-magada
-teaser: /assets/thumbs/eyethu-magada.png
+teaser: https://img.baska-sweden.co.za/thumbs/eyethu-magada.png
 title: Eyethu Magada
 ---
 
-<img src="/assets/img/eyethu-magada.png" />
+[<img src="https://img.baska-sweden.co.za/resized/eyethu-magada.png" />](https://img.baska-sweden.co.za/original/eyethu-magada.png)
 
 Eyethu Magada, 14
 

@@ -1,11 +1,11 @@
 ---
 category: team
 permalink: /team/dominic-windvogel
-teaser: /assets/thumbs/dominic-windvogel.png
+teaser: https://img.baska-sweden.co.za/thumbs/dominic-windvogel.png
 title: Dominic Windvogel
 ---
 
-<img src="/assets/img/dominic-windvogel.png" />
+[<img src="https://img.baska-sweden.co.za/resized/dominic-windvogel.png" />](https://img.baska-sweden.co.za/original/dominic-windvogel.png)
 
 Dominic Windvogel, 20
 

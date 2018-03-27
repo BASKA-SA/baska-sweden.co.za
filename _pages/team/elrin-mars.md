@@ -1,11 +1,11 @@
 ---
 category: team
 permalink: /team/elrin-mars
-teaser: /assets/thumbs/elrin-mars.png
+teaser: https://img.baska-sweden.co.za/thumbs/elrin-mars.png
 title: Elrin Mars
 ---
 
-<img src="/assets/img/elrin-mars.png" />
+[<img src="https://img.baska-sweden.co.za/resized/elrin-mars.png" />](https://img.baska-sweden.co.za/original/elrin-mars.png)
 
 Elrin Mars, 22
 

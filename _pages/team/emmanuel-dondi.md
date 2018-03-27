@@ -1,11 +1,11 @@
 ---
 category: team
 permalink: /team/emmanuel-dondi
-teaser: /assets/thumbs/emmanuel-dondi.png
+teaser: https://img.baska-sweden.co.za/thumbs/emmanuel-dondi.png
 title: Emmanuel Dondi
 ---
 
-<img src="/assets/img/emmanuel-dondi.png" />
+[<img src="https://img.baska-sweden.co.za/resized/emmanuel-dondi.png" />](https://img.baska-sweden.co.za/original/emmanuel-dondi.png)
 
 Emmanuel Dondi, 24
 

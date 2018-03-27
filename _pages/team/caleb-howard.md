@@ -1,11 +1,11 @@
 ---
 category: team
 permalink: /team/caleb-howard
-teaser: /assets/thumbs/caleb-howard.png
+teaser: https://img.baska-sweden.co.za/thumbs/caleb-howard.png
 title: Caleb Howard
 ---
 
-<img src="/assets/img/caleb-howard.png" />
+[<img src="https://img.baska-sweden.co.za/resized/caleb-howard.png" />](https://img.baska-sweden.co.za/original/caleb-howard.png)
 
 Sensei Caleb Howard, 28
 <br>Aka Cala, Die Rooi Gefaar

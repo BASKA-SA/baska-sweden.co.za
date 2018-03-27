@@ -1,11 +1,11 @@
 ---
 category: team
 permalink: /team/adam-damon
-teaser: /assets/thumbs/adam-damon.png
+teaser: https://img.baska-sweden.co.za/thumbs/adam-damon.png
 title: Adam Damon
 ---
 
-<img src="/assets/img/adam-damon.png" />
+[<img src="https://img.baska-sweden.co.za/resized/adam-damon.png" />](https://img.baska-sweden.co.za/original/adam-damon.png)
 
 Adam Damon, 12
 

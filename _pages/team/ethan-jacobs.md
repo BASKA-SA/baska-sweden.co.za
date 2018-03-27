@@ -1,11 +1,11 @@
 ---
 category: team
 permalink: /team/ethan-jacobs
-teaser: /assets/thumbs/ethan-jacobs.png
+teaser: https://img.baska-sweden.co.za/thumbs/ethan-jacobs.png
 title: Ethan Jacobs
 ---
 
-<img src="/assets/img/ethan-jacobs.png" />
+[<img src="https://img.baska-sweden.co.za/resized/ethan-jacobs.png" />](https://img.baska-sweden.co.za/original/ethan-jacobs.png)
 
 Ethan Jacobs, 12
 

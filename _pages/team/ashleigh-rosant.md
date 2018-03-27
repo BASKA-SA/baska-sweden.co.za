@@ -1,11 +1,11 @@
 ---
 category: team
 permalink: /team/ashleigh-rosant
-teaser: /assets/thumbs/ashleigh-rosant.png
+teaser: https://img.baska-sweden.co.za/thumbs/ashleigh-rosant.png
 title: Ashleigh Rosant
 ---
 
-<img src="/assets/img/ashleigh-rosant.png" />
+[<img src="https://img.baska-sweden.co.za/resized/ashleigh-rosant.png" />](https://img.baska-sweden.co.za/original/ashleigh-rosant.png)
 
 Ashleigh Rosant, 14
 

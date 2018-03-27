@@ -1,11 +1,11 @@
 ---
 category: team
 permalink: /team/ayesha-damon
-teaser: /assets/thumbs/ayesha-damon.png
+teaser: https://img.baska-sweden.co.za/thumbs/ayesha-damon.png
 title: Ayesha Damon
 ---
 
-<img src="/assets/img/ayesha-damon.png" />
+[<img src="https://img.baska-sweden.co.za/resized/ayesha-damon.png" />](https://img.baska-sweden.co.za/original/ayesha-damon.png)
 
 Ayesha Damon, 16
 

@@ -1,11 +1,11 @@
 ---
 category: team
 permalink: /team/dillon-windvogel
-teaser: /assets/thumbs/dillon-windvogel.png
+teaser: https://img.baska-sweden.co.za/thumbs/dillon-windvogel.png
 title: Dillon Windvogel
 ---
 
-<img src="/assets/img/dillon-windvogel.png" />
+[<img src="https://img.baska-sweden.co.za/resized/dillon-windvogel.png" />](https://img.baska-sweden.co.za/original/dillon-windvogel.png)
 
 Dillon Windvogel, 17
 

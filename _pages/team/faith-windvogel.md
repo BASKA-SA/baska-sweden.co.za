@@ -1,11 +1,11 @@
 ---
 category: team
 permalink: /team/faith-windvogel
-teaser: /assets/thumbs/faith-windvogel.png
+teaser: https://img.baska-sweden.co.za/thumbs/faith-windvogel.png
 title: Faith Windvogel
 ---
 
-<img src="/assets/img/faith-windvogel.png" />
+[<img src="https://img.baska-sweden.co.za/resized/faith-windvogel.png" />](https://img.baska-sweden.co.za/original/faith-windvogel.png)
 
 Faith Windvogel, 15
 

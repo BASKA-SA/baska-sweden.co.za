@@ -1,11 +1,11 @@
 ---
 category: team
 permalink: /team/chris-ensil
-teaser: /assets/thumbs/chris-ensil.png
+teaser: https://img.baska-sweden.co.za/thumbs/chris-ensil.png
 title: Sensei Chris Ensil
 ---
 
-<img src="/assets/img/chris-ensil.png" />
+[<img src="https://img.baska-sweden.co.za/resized/chris-ensil.png" />](https://img.baska-sweden.co.za/original/chris-ensil.png)
 
 Sensei Chris Ensil, 61
 
