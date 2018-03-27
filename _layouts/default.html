@@ -16,6 +16,24 @@
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
+  <div class="background" data-bind="style:background_style" style="
+    position: fixed;
+    height: 100%;
+    margin: 0;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.8;
+    background-image: url(/assets/backgrounds/Samurai_washedout.jpg"
+      ></div>
+
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
