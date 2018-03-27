@@ -11,9 +11,11 @@ at the ways you can get involved. If we all pull together we can get our team
 to Sweden!
 
 ### Champions Card pack
+![image-left](/assets/img/deck-back.png){: .align-left}
 This deck of high quality playing cards has a great action shot of each team
-member as well as all our Senseis. This collectable deck of cards will also
-make a great gift. Only R99. Simply click on the link below or contact us on [admin@baska-sweden.co.za](mailto:admin@baska-sweden.co.za) to purchase your cards:
+member as well as all our Senseis and World Chief Instructors. This collectable
+deck of cards will also make a great gift. Only R99. Simply click on the link
+below or contact us on [admin@baska-sweden.co.za](mailto:admin@baska-sweden.co.za) to purchase your cards:
 
 [Buy Now >>](https://docs.google.com/forms/d/e/1FAIpQLSe69eO89aGfjMKQGKyXCxKYujk1CHV_cxDB5cMITNFN8oMq4w/viewform?usp=pp_url&entry.1293732567=1){: .btn .btn--success .btn--small}
 
